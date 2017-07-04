@@ -5,7 +5,7 @@ Introduction to Computer Science and Programming Using Python
 
 List of Lecture Topics
 
-Lecture 1 – Introduction to Python:
+Lecture 1 – Introduction to Python:\
 • Knowledge
 • Machines
 • Languages
@@ -13,7 +13,7 @@ Lecture 1 – Introduction to Python:
 • Variables
 • Operators and Branching
 
-Lecture 2 – Core elements of programs:
+Lecture 2 – Core elements of programs:\
 • Bindings
 • Strings
 • Input/Output
@@ -22,13 +22,13 @@ Lecture 2 – Core elements of programs:
 • Iteration
 • Guess and Check
 
-Lecture 3 – Simple Programs:
+Lecture 3 – Simple Programs:\
 • Approximate Solutions
 • Bisection Search
 • Floats and Fractions
 • Newton-Raphson
 
-Lecture 4 – Functions:
+Lecture 4 – Functions:\
 • Decomposition and Abstraction
 • Functions and Scope
 • Keyword Arguments
@@ -40,32 +40,32 @@ Lecture 4 – Functions:
 • Recursion on non-numerics
 • Files
 
-Lecture 5 – Tuples and Lists:
+Lecture 5 – Tuples and Lists:\
 • Tuples
 • Lists
 • List Operations
 • Mutation, Aliasing, Cloning
 
-Lecture 6 – Dictionaries:
+Lecture 6 – Dictionaries:\
 • Functions as Objects
 • Dictionaries
 • Example with a Dictionary
 • Fibonacci and Dictionaries
 • Global Variables
 
-Lecture 7 – Debugging:
+Lecture 7 – Debugging:\
 • Programming Challenges
 • Classes of Tests
 • Bugs
 • Debugging
 • Debugging Examples
 
-Lecture 8 – Assertions and Exceptions
+Lecture 8 – Assertions and Exceptions\
 • Assertions
 • Exceptions
 • Exception Examples
 
-Lecture 9 – Classes and Inheritance:
+Lecture 9 – Classes and Inheritance:\
 • Object Oriented Programming
 • Class Instances
 • Methods
@@ -74,7 +74,7 @@ Lecture 9 – Classes and Inheritance:
 • Hierarchies
 • Your Own Types
 
-Lecture 10 – An Extended Example:
+Lecture 10 – An Extended Example:\
 • Building a Class
 • Viualizing the Hierarchy
 • Adding another Class
@@ -82,13 +82,13 @@ Lecture 10 – An Extended Example:
 • Gradebook Example
 • Generators
 
-Lecture 11 – Computational Complexity:
+Lecture 11 – Computational Complexity:\
 • Program Efficiency
 • Big Oh Notation
 • Complexity Classes
 • Analyzing Complexity
 
-Lecture 12 – Searching and Sorting Algorithms:
+Lecture 12 – Searching and Sorting Algorithms:\
 • Indirection
 • Linear Search
 • Bisection Search
@@ -96,7 +96,7 @@ Lecture 12 – Searching and Sorting Algorithms:
 • Selection Sort
 • Merge Sort
 
-Lecture 13 – Visualization of Data:
+Lecture 13 – Visualization of Data:\
 • Visualizing Results
 • Overlapping Displays
 • Adding More Documentation
