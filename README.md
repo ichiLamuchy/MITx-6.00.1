@@ -1,8 +1,10 @@
 # MITx-6.00.1
-Introduction to Computer Science and Programming Using Python 
+Introduction to Computer Science and Programming Using Python from www.edx.org
 
 
-
+\
+\
+\
 List of Lecture Topics
 
 Lecture 1 – Introduction to Python:\
