@@ -20,8 +20,6 @@ print(a.__next__())
 print(a.__next__())
 '''
 
-
-
 def genPrimes():
     # primes generated so far, this is the only numbers you need to %, because it is the prime number!
     primes = []   
