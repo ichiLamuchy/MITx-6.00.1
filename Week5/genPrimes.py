@@ -2,6 +2,7 @@
 
 '''
 The comments are for studing purpose
+
 Exercise: genPrimes
 Write a generator, genPrimes, that returns the sequence of prime numbers on successive calls to its next() method: 2, 3, 5, 7, 11, ...
 
@@ -17,7 +18,6 @@ print(a.__next__())
 print(a.__next__())
 print(a.__next__())
 print(a.__next__())
-
 '''
 
 
