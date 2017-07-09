@@ -1,6 +1,8 @@
 
 
 '''
+The comments are for studing purpose
+
 Exercise: coordinate
 
 Your task is to define the following two methods for the Coordinate class:
