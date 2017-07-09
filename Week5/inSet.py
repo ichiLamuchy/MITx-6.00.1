@@ -1,6 +1,8 @@
 
 
 '''
+The comments are for studing purpose
+
 Exercise: int set
 Your task is to define the following two methods for the intSet class:
 1. Define an intersect method that returns a new intSet containing elements that appear in both sets. In other words,
