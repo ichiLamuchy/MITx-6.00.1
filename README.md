@@ -1,6 +1,7 @@
 # MITx-6.00.1
 Introduction to Computer Science and Programming Using Python from www.edx.org
-I cannot take final exam as I will ne on holidat :)
+\
+I cannot take the final exam as I will be on holiday on the days of exam. :)
 
 \
 \
@@ -107,3 +108,9 @@ Lecture 13 – Visualization of Data:\
 • An Example
 
 Lecture 14 – Summary
+
+/
+/
+/
+![mit_2](https://user-images.githubusercontent.com/24844600/28265469-d42df266-6ae7-11e7-97bf-ef849f854b02.PNG)
+
