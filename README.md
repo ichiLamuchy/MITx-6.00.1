@@ -108,8 +108,9 @@ Lecture 13 – Visualization of Data:\
 • An Example
 
 Lecture 14 – Summary
-/
+
 Scores
+
 ![mit_2](https://user-images.githubusercontent.com/24844600/28265469-d42df266-6ae7-11e7-97bf-ef849f854b02.PNG)
 ![mit_3](https://user-images.githubusercontent.com/24844600/28265485-e64a6718-6ae7-11e7-9f66-26e2813ee085.PNG)
 
