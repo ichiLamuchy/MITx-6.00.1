@@ -5,8 +5,8 @@ Introduction to Computer Science and Programming Using Python from www.edx.org
 \
 \
 \
-![alt text](C:\Users\sichimura\Desktop\mit_1.png "Description goes here")
-List of Lecture Topics
+![mit_1](https://user-images.githubusercontent.com/24844600/28265335-250bea68-6ae7-11e7-8579-5f81b63753d1.PNG)
+
 
 Lecture 1 – Introduction to Python:\
 • Knowledge
