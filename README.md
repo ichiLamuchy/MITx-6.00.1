@@ -1,6 +1,6 @@
 # MITx-6.00.1
 Introduction to Computer Science and Programming Using Python from www.edx.org
-
+I cannot take final exam as I will ne on holidat :)
 
 \
 \
